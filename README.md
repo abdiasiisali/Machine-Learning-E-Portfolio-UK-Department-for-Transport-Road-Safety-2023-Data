@@ -1,0 +1,2 @@
+# Machine-Learning-E-Portfolio-UK-Department-for-Transport-Road-Safety-2023-Data
+In 2023, ~23,000 road collisions occurred in London; 3,500 caused serious injury and 101 were fatal. This project merges and cleans four datasets to build a machine learning model predicting accident severity using driver, vehicle, and environmental factors, to support the top 5 most affected London boroughs improve their road safety.
