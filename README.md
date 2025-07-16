@@ -7,6 +7,5 @@ To support predictive modelling, four datasets from the Department for Transport
 
 
 
-Acknowledgements 🙏
-
+**Acknowledgements** 🙏
 A huge thank you to Michael Aung and Le Trang Hoang for their contributions during the Data Preparation and Exploratory Data Analysis stages of this project.
