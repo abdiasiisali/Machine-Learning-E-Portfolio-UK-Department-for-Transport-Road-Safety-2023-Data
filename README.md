@@ -1,5 +1,7 @@
 # Machine-Learning-E-Portfolio-UK-Department-for-Transport-Road-Safety-2023-Data
 
+<img width="1200" height="630" alt="Thumbnail" src="https://github.com/user-attachments/assets/d61e1db0-af05-4a83-a11a-caf5d48fc6d1" />
+
 
 In 2023, approximately 23,000 road collisions were recorded across London boroughs. While the majority resulted in minor injuries, around 3,500 involved serious harm such as burns or fractures, and 101 incidents led to at least one fatality (Trust for London, 2025). Transport for London’s Vision Zero initiative set an ambitious goal: to eliminate all deaths and
  serious injuries from London’s transport network by 2041 (Transport for London, 2023). Central to this vision is the use of data-driven strategies to enhance road safety and influence driver behaviour. 
